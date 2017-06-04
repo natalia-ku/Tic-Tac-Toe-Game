@@ -1,5 +1,3 @@
-package assignment5;
-
 import java.util.Scanner;
 
 /**
