@@ -1,3 +1,3 @@
 # Tic-Tac-Toe-Game
-Advanced Tic Tac Toe Game 4*4.
-You could change size of the board.
+My first Java Game
+Advanced Tic Tac Toe Game 4*4 with ability to  change size of the board (3x3 4x4 5x5 etc)
